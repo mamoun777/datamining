@@ -46,4 +46,25 @@
 - Working with Git and Markdown
 - General
 
+## Text Formatting
 
+- **Everyone Is Welcome**
+- *everyone should meet the deadline*
+- ***feel free to ask any question***
+
+## Equation
+
+\(1 + 1 = 2\)
+
+## In-line Code
+
+ `Tkacz Magdalena`.
+
+## Code Block
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
