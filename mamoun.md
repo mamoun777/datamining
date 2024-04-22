@@ -28,3 +28,22 @@
 | Verma         | 22  | Female |
 | YILDIZ        | 21  | Female |
 
+## Hyperlink
+
+[Data mining](https://el.us.edu.pl/wnst/course/view.php?id=2976)
+
+## Ordered List
+
+1. Working with Git and markdown
+2. Python, pandas, numpy basics
+3. Python intro
+4. Probem and data understanding
+
+## Unordered List
+
+- Python Basics
+- CRISP-DM
+- Working with Git and Markdown
+- General
+
+
